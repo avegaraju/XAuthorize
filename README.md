@@ -1,2 +1,0 @@
-# XAuthorize
-RBAC using XACML
