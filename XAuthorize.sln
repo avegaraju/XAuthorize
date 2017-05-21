@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAuthorize.Entities", "XAuthorize.Entities\XAuthorize.Entities.csproj", "{209C5930-47E6-45E1-ABE0-D9566F38CA34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAuthorize.Entities.Tests", "XAuthorize.Entities.Tests\XAuthorize.Entities.Tests.csproj", "{18E68131-0099-4FBC-ACA2-71A5AF0CD8CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{209C5930-47E6-45E1-ABE0-D9566F38CA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209C5930-47E6-45E1-ABE0-D9566F38CA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209C5930-47E6-45E1-ABE0-D9566F38CA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E68131-0099-4FBC-ACA2-71A5AF0CD8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E68131-0099-4FBC-ACA2-71A5AF0CD8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E68131-0099-4FBC-ACA2-71A5AF0CD8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E68131-0099-4FBC-ACA2-71A5AF0CD8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
